@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pwa-react-typescript-v1/static/css/main.a79617f5.css",
+    "main.js": "/pwa-react-typescript-v1/static/js/main.de786431.js",
+    "static/js/787.8fd65848.chunk.js": "/pwa-react-typescript-v1/static/js/787.8fd65848.chunk.js",
+    "service-worker.js": "/pwa-react-typescript-v1/service-worker.js",
+    "index.html": "/pwa-react-typescript-v1/index.html",
+    "main.a79617f5.css.map": "/pwa-react-typescript-v1/static/css/main.a79617f5.css.map",
+    "main.de786431.js.map": "/pwa-react-typescript-v1/static/js/main.de786431.js.map",
+    "787.8fd65848.chunk.js.map": "/pwa-react-typescript-v1/static/js/787.8fd65848.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a79617f5.css",
+    "static/js/main.de786431.js"
+  ]
+}
